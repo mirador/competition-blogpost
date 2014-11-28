@@ -1,0 +1,841 @@
+NAME,REGION,YEAR,SE.SEC.TCHR.FE.ZS,GB.XPD.RSDV.GD.ZS,SP.POP.SCIE.RD.P6,RATIO
+Albania,Europe & Central Asia,2000,53.94607162,\N,\N,\N
+Albania,Europe & Central Asia,2001,54.10681915,\N,\N,\N
+Albania,Europe & Central Asia,2002,\N,\N,\N,\N
+Albania,Europe & Central Asia,2003,56.10060883,\N,\N,\N
+Albania,Europe & Central Asia,2004,\N,\N,\N,\N
+Albania,Europe & Central Asia,2005,\N,\N,\N,\N
+Albania,Europe & Central Asia,2006,\N,\N,\N,\N
+Albania,Europe & Central Asia,2007,\N,0.08735,\N,\N
+Albania,Europe & Central Asia,2008,61.21942902,0.15308,147.94362,966.4464332375229
+Albania,Europe & Central Asia,2009,61.44002914,\N,\N,\N
+Albania,Europe & Central Asia,2010,62.08370972,\N,\N,\N
+Albania,Europe & Central Asia,2011,63.21572876,\N,\N,\N
+Albania,Europe & Central Asia,2012,63.55535126,\N,\N,\N
+Albania,Europe & Central Asia,2013,\N,\N,\N,\N
+Andorra,Europe & Central Asia,2000,\N,\N,\N,\N
+Andorra,Europe & Central Asia,2001,\N,\N,\N,\N
+Andorra,Europe & Central Asia,2002,54.27872849,\N,\N,\N
+Andorra,Europe & Central Asia,2003,56.36363983,\N,\N,\N
+Andorra,Europe & Central Asia,2004,58.04347992,\N,\N,\N
+Andorra,Europe & Central Asia,2005,59.33610153,\N,\N,\N
+Andorra,Europe & Central Asia,2006,\N,\N,\N,\N
+Andorra,Europe & Central Asia,2007,\N,\N,\N,\N
+Andorra,Europe & Central Asia,2008,\N,\N,\N,\N
+Andorra,Europe & Central Asia,2009,\N,\N,\N,\N
+Andorra,Europe & Central Asia,2010,\N,\N,\N,\N
+Andorra,Europe & Central Asia,2011,\N,\N,\N,\N
+Andorra,Europe & Central Asia,2012,\N,\N,\N,\N
+Andorra,Europe & Central Asia,2013,\N,\N,\N,\N
+Armenia,Europe & Central Asia,2000,\N,0.18463,\N,\N
+Armenia,Europe & Central Asia,2001,\N,0.27987,\N,\N
+Armenia,Europe & Central Asia,2002,\N,0.25255,\N,\N
+Armenia,Europe & Central Asia,2003,\N,0.23971,\N,\N
+Armenia,Europe & Central Asia,2004,\N,0.21201,\N,\N
+Armenia,Europe & Central Asia,2005,\N,0.25761,\N,\N
+Armenia,Europe & Central Asia,2006,\N,0.24057,\N,\N
+Armenia,Europe & Central Asia,2007,\N,0.21107,\N,\N
+Armenia,Europe & Central Asia,2008,\N,0.22438,\N,\N
+Armenia,Europe & Central Asia,2009,\N,0.29093,\N,\N
+Armenia,Europe & Central Asia,2010,\N,0.24139,\N,\N
+Armenia,Europe & Central Asia,2011,\N,0.27014,\N,\N
+Armenia,Europe & Central Asia,2012,\N,\N,\N,\N
+Armenia,Europe & Central Asia,2013,\N,\N,\N,\N
+Austria,Europe & Central Asia,2000,\N,1.93246,\N,\N
+Austria,Europe & Central Asia,2001,\N,2.05092,\N,\N
+Austria,Europe & Central Asia,2002,59.72898102,2.12412,2981.30059,1403.5462167862456
+Austria,Europe & Central Asia,2003,59.86175919,2.24092,\N,\N
+Austria,Europe & Central Asia,2004,60.83470154,2.23663,3167.91195,1416.3772953058844
+Austria,Europe & Central Asia,2005,61.19771957,2.4587,3455.63399,1405.4719933298084
+Austria,Europe & Central Asia,2006,61.70682907,2.43928,3527.5237,1446.1331622445969
+Austria,Europe & Central Asia,2007,61.93835831,2.50632,3811.07393,1520.5855317756711
+Austria,Europe & Central Asia,2008,61.81645966,2.66957,4136.62987,1549.5491296351095
+Austria,Europe & Central Asia,2009,62.25033951,2.70782,4140.57533,1529.117640758987
+Austria,Europe & Central Asia,2010,62.774890899999995,2.79846,4312.41701,1540.996480206971
+Austria,Europe & Central Asia,2011,63.27421188,2.76578,4401.07721,1591.2607691139572
+Austria,Europe & Central Asia,2012,63.61486816,2.83639,4564.93825,1609.4183980341209
+Austria,Europe & Central Asia,2013,\N,\N,\N,\N
+Azerbaijan,Europe & Central Asia,2000,\N,0.336,\N,\N
+Azerbaijan,Europe & Central Asia,2001,\N,0.34001,\N,\N
+Azerbaijan,Europe & Central Asia,2002,\N,0.30155,\N,\N
+Azerbaijan,Europe & Central Asia,2003,\N,0.32496,\N,\N
+Azerbaijan,Europe & Central Asia,2004,\N,0.29831,\N,\N
+Azerbaijan,Europe & Central Asia,2005,\N,0.21994,\N,\N
+Azerbaijan,Europe & Central Asia,2006,\N,0.17165,\N,\N
+Azerbaijan,Europe & Central Asia,2007,\N,0.17006,\N,\N
+Azerbaijan,Europe & Central Asia,2008,\N,0.16554,\N,\N
+Azerbaijan,Europe & Central Asia,2009,\N,0.24976,\N,\N
+Azerbaijan,Europe & Central Asia,2010,\N,0.21848,\N,\N
+Azerbaijan,Europe & Central Asia,2011,\N,0.21084,\N,\N
+Azerbaijan,Europe & Central Asia,2012,\N,\N,\N,\N
+Azerbaijan,Europe & Central Asia,2013,\N,\N,\N,\N
+Belarus,Europe & Central Asia,2000,\N,0.7221,\N,\N
+Belarus,Europe & Central Asia,2001,\N,0.70876,\N,\N
+Belarus,Europe & Central Asia,2002,\N,0.6209,\N,\N
+Belarus,Europe & Central Asia,2003,\N,0.61147,\N,\N
+Belarus,Europe & Central Asia,2004,\N,0.62759,\N,\N
+Belarus,Europe & Central Asia,2005,\N,0.67852,\N,\N
+Belarus,Europe & Central Asia,2006,\N,0.66065,\N,\N
+Belarus,Europe & Central Asia,2007,\N,0.96203,\N,\N
+Belarus,Europe & Central Asia,2008,\N,0.74147,\N,\N
+Belarus,Europe & Central Asia,2009,\N,0.64269,\N,\N
+Belarus,Europe & Central Asia,2010,\N,0.6935,\N,\N
+Belarus,Europe & Central Asia,2011,\N,0.7006,\N,\N
+Belarus,Europe & Central Asia,2012,\N,\N,\N,\N
+Belarus,Europe & Central Asia,2013,\N,\N,\N,\N
+Belgium,Europe & Central Asia,2000,57.30506897,1.96558,2974.14393,1513.1126334211785
+Belgium,Europe & Central Asia,2001,58.00009155,2.06825,3129.52181,1513.1254974011847
+Belgium,Europe & Central Asia,2002,58.56809998,1.93609,2966.26192,1532.088859505498
+Belgium,Europe & Central Asia,2003,\N,1.87482,2977.10736,1587.943034531315
+Belgium,Europe & Central Asia,2004,\N,1.85508,3103.19427,1672.8088653858592
+Belgium,Europe & Central Asia,2005,\N,1.82957,3154.33552,1724.08572506108
+Belgium,Europe & Central Asia,2006,\N,1.85884,3294.27807,1772.222498977857
+Belgium,Europe & Central Asia,2007,\N,1.89299,3401.22146,1796.7456035161308
+Belgium,Europe & Central Asia,2008,\N,1.96686,3413.71216,1735.6152242660892
+Belgium,Europe & Central Asia,2009,\N,2.02668,3519.0442,1736.3590700061184
+Belgium,Europe & Central Asia,2010,\N,2.10478,3731.9619,1773.0888263856555
+Belgium,Europe & Central Asia,2011,\N,2.21281,3878.18635,1752.607024552492
+Belgium,Europe & Central Asia,2012,\N,2.23621,3982.98387,1781.1314098407574
+Belgium,Europe & Central Asia,2013,\N,\N,\N,\N
+Bermuda,North America,2000,\N,\N,\N,\N
+Bermuda,North America,2001,66.5116272,\N,\N,\N
+Bermuda,North America,2002,67.28111267,\N,\N,\N
+Bermuda,North America,2003,67.83114624,\N,\N,\N
+Bermuda,North America,2004,65.57142639,\N,\N,\N
+Bermuda,North America,2005,66.86216736,\N,\N,\N
+Bermuda,North America,2006,67.46987915,\N,\N,\N
+Bermuda,North America,2007,\N,0.20526,\N,\N
+Bermuda,North America,2008,\N,0.2095,\N,\N
+Bermuda,North America,2009,\N,0.22217,\N,\N
+Bermuda,North America,2010,73.09091187,0.22283,\N,\N
+Bermuda,North America,2011,66.86566925,0.26122,\N,\N
+Bermuda,North America,2012,\N,\N,\N,\N
+Bermuda,North America,2013,\N,\N,\N,\N
+Bosnia and Herzegovina,Europe & Central Asia,2000,\N,\N,\N,\N
+Bosnia and Herzegovina,Europe & Central Asia,2001,\N,\N,\N,\N
+Bosnia and Herzegovina,Europe & Central Asia,2002,\N,\N,\N,\N
+Bosnia and Herzegovina,Europe & Central Asia,2003,\N,0.01854,59.48181,3208.2961165048546
+Bosnia and Herzegovina,Europe & Central Asia,2004,\N,0.01611,61.4281,3813.0415890751087
+Bosnia and Herzegovina,Europe & Central Asia,2005,\N,0.02765,65.16088,2356.6321880650994
+Bosnia and Herzegovina,Europe & Central Asia,2006,\N,0.02043,173.18602,8477.044542339698
+Bosnia and Herzegovina,Europe & Central Asia,2007,\N,0.02603,192.61683,7399.801383019592
+Bosnia and Herzegovina,Europe & Central Asia,2008,\N,0.01898,\N,\N
+Bosnia and Herzegovina,Europe & Central Asia,2009,\N,0.02171,\N,\N
+Bosnia and Herzegovina,Europe & Central Asia,2010,\N,\N,\N,\N
+Bosnia and Herzegovina,Europe & Central Asia,2011,\N,\N,\N,\N
+Bosnia and Herzegovina,Europe & Central Asia,2012,\N,\N,\N,\N
+Bosnia and Herzegovina,Europe & Central Asia,2013,\N,\N,\N,\N
+Bulgaria,Europe & Central Asia,2000,75.57141113,0.50829,1184.79947,2330.9517598221487
+Bulgaria,Europe & Central Asia,2001,76.57698822,0.45724,1161.56665,2540.3872145918995
+Bulgaria,Europe & Central Asia,2002,75.67111206,0.47705,1171.84602,2456.4427628131225
+Bulgaria,Europe & Central Asia,2003,77.06443787,0.48311,1228.25748,2542.397135228002
+Bulgaria,Europe & Central Asia,2004,77.19280243,0.48715,1268.88822,2604.7176844914297
+Bulgaria,Europe & Central Asia,2005,77.24661255,0.45762,1308.42829,2859.2025916699445
+Bulgaria,Europe & Central Asia,2006,77.48941040000001,0.45775,1355.92295,2962.1473511742215
+Bulgaria,Europe & Central Asia,2007,77.84649658,0.45368,1481.26288,3264.9948862634456
+Bulgaria,Europe & Central Asia,2008,78.56285858,0.47024,1517.01592,3226.046104117047
+Bulgaria,Europe & Central Asia,2009,78.71820831,0.52847,1607.26341,3041.352224345753
+Bulgaria,Europe & Central Asia,2010,79.10024261,0.59794,1485.82217,2484.901779442753
+Bulgaria,Europe & Central Asia,2011,79.17851257,0.57041,1623.04677,2845.4037797373817
+Bulgaria,Europe & Central Asia,2012,79.26622772,0.63924,1551.97338,2427.8414679932416
+Bulgaria,Europe & Central Asia,2013,\N,\N,\N,\N
+Canada,North America,2000,\N,1.90939,3514.9528,1840.877348263058
+Canada,North America,2001,\N,2.08773,3695.44594,1770.0784775809132
+Canada,North America,2002,\N,2.04145,3706.71722,1815.72765436332
+Canada,North America,2003,\N,2.03524,3900.71662,1916.588028930249
+Canada,North America,2004,\N,2.06669,4085.34415,1976.7571091939285
+Canada,North America,2005,\N,2.03975,4238.35333,2077.8788233852188
+Canada,North America,2006,\N,2.00489,4313.27065,2151.3752126051804
+Canada,North America,2007,\N,1.9634,4587.73086,2336.6256799429557
+Canada,North America,2008,\N,1.91821,4710.8325,2455.848160524656
+Canada,North America,2009,\N,1.97052,4450.61773,2258.6006384101656
+Canada,North America,2010,\N,1.86008,4578.88124,2461.6582297535588
+Canada,North America,2011,\N,1.78503,4562.82399,2556.160955278063
+Canada,North America,2012,\N,1.72797,\N,\N
+Canada,North America,2013,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2000,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2001,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2002,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2003,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2004,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2005,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2006,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2007,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2008,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2009,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2010,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2011,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2012,\N,\N,\N,\N
+Channel Islands,Europe & Central Asia,2013,\N,\N,\N,\N
+Croatia,Europe & Central Asia,2000,65.23621368,1.05654,1513.22812,1432.2487743010201
+Croatia,Europe & Central Asia,2001,65.72627258,0.92589,1496.8104,1616.617956776723
+Croatia,Europe & Central Asia,2002,65.95336151,0.96075,1936.69458,2015.8153317720532
+Croatia,Europe & Central Asia,2003,66.97821045,0.96492,1328.6122,1376.9143555942462
+Croatia,Europe & Central Asia,2004,\N,1.04515,1622.83571,1552.7299526383772
+Croatia,Europe & Central Asia,2005,66.86765289,0.86694,1304.89556,1505.1740143493205
+Croatia,Europe & Central Asia,2006,67.30857086,0.74872,1319.59957,1762.4740490437011
+Croatia,Europe & Central Asia,2007,67.9349823,0.80221,1402.72998,1748.5820171775472
+Croatia,Europe & Central Asia,2008,68.65297699,0.89513,1535.96479,1715.9125378436652
+Croatia,Europe & Central Asia,2009,\N,0.85014,1593.35897,1874.2312677911873
+Croatia,Europe & Central Asia,2010,68.93419647,0.75443,1637.61083,2170.6597431173204
+Croatia,Europe & Central Asia,2011,69.13845062,0.75787,1583.5527,2089.478010740628
+Croatia,Europe & Central Asia,2012,69.11186218,0.75164,1552.66886,2065.7081315523387
+Croatia,Europe & Central Asia,2013,\N,\N,\N,\N
+Cyprus,Europe & Central Asia,2000,57.27408981,0.24324,321.21719,1320.5771665844434
+Cyprus,Europe & Central Asia,2001,57.00656128,0.25453,346.3407,1360.706792912427
+Cyprus,Europe & Central Asia,2002,58.63446045,0.30253,443.93327,1467.4024724820679
+Cyprus,Europe & Central Asia,2003,59.78219986,0.34769,490.91211,1411.9247318013172
+Cyprus,Europe & Central Asia,2004,59.58855820000001,0.36755,573.92058,1561.4762073187321
+Cyprus,Europe & Central Asia,2005,60.46715927,0.40437,660.47767,1633.3498281277048
+Cyprus,Europe & Central Asia,2006,61.07130814,0.42502,713.52667,1678.8072796574277
+Cyprus,Europe & Central Asia,2007,62.00822829999999,0.4412,751.57912,1703.4884859474162
+Cyprus,Europe & Central Asia,2008,62.99385834,0.42439,748.31328,1763.267937510309
+Cyprus,Europe & Central Asia,2009,63.83599854,0.48972,800.5113,1634.6306052438129
+Cyprus,Europe & Central Asia,2010,64.17407227,0.49355,819.98034,1661.3926451220748
+Cyprus,Europe & Central Asia,2011,64.10455322,0.49716,819.51576,1648.3944001930968
+Cyprus,Europe & Central Asia,2012,64.74819946,0.46726,792.74115,1696.5739631040533
+Cyprus,Europe & Central Asia,2013,\N,\N,\N,\N
+Czech Republic,Europe & Central Asia,2000,\N,1.16699,1351.36216,1157.98949434014
+Czech Republic,Europe & Central Asia,2001,66.0758667,1.15729,1464.79941,1265.7150843781594
+Czech Republic,Europe & Central Asia,2002,66.87738037,1.151,1466.01697,1273.689808861859
+Czech Republic,Europe & Central Asia,2003,66.77884674,1.1996,1549.31778,1291.5286595531845
+Czech Republic,Europe & Central Asia,2004,67.08361053,1.19771,1596.77609,1333.1909143281762
+Czech Republic,Europe & Central Asia,2005,67.23883057,1.22417,2362.41021,1929.805672414779
+Czech Republic,Europe & Central Asia,2006,64.84250641,1.29059,2556.45258,1980.8402203643298
+Czech Republic,Europe & Central Asia,2007,67.79360199,1.3654,2696.69355,1975.0209096235535
+Czech Republic,Europe & Central Asia,2008,65.54959869,1.29591,2860.70776,2207.4895324520994
+Czech Republic,Europe & Central Asia,2009,65.54106903,1.35342,2742.52525,2026.3667228207062
+Czech Republic,Europe & Central Asia,2010,64.91317749,1.3974,2769.44363,1981.8546085587523
+Czech Republic,Europe & Central Asia,2011,65.53610992,1.6413,2891.47894,1761.70044476939
+Czech Republic,Europe & Central Asia,2012,65.76863098,1.88148,3111.49449,1653.7483736207666
+Czech Republic,Europe & Central Asia,2013,\N,\N,\N,\N
+Denmark,Europe & Central Asia,2000,47.69327164,\N,\N,\N
+Denmark,Europe & Central Asia,2001,48.05673981,2.38718,3632.89412,1521.8350187250228
+Denmark,Europe & Central Asia,2002,\N,2.5082,4758.22845,1897.0689937006616
+Denmark,Europe & Central Asia,2003,\N,2.57549,4622.45393,1794.786207673103
+Denmark,Europe & Central Asia,2004,\N,2.48487,4847.02396,1950.6147041897566
+Denmark,Europe & Central Asia,2005,\N,2.45645,5201.2942,2117.402837427996
+Denmark,Europe & Central Asia,2006,\N,2.47752,5301.72546,2139.932456650198
+Denmark,Europe & Central Asia,2007,\N,2.58008,5518.74688,2138.9828532448605
+Denmark,Europe & Central Asia,2008,\N,2.8499,6495.81595,2279.3136425839502
+Denmark,Europe & Central Asia,2009,\N,3.16039,6659.33318,2107.1238612955995
+Denmark,Europe & Central Asia,2010,\N,3.00138,6743.89777,2246.932334459482
+Denmark,Europe & Central Asia,2011,\N,2.97599,6805.82727,2286.912009112934
+Denmark,Europe & Central Asia,2012,\N,2.98416,6730.38858,2255.371220041821
+Denmark,Europe & Central Asia,2013,\N,\N,\N,\N
+Estonia,Europe & Central Asia,2000,81.27826691,0.60115,1951.5166,3246.305580969808
+Estonia,Europe & Central Asia,2001,81.88963318,0.70001,1976.33849,2823.3003671376123
+Estonia,Europe & Central Asia,2002,\N,0.71627,2269.83677,3168.968084660812
+Estonia,Europe & Central Asia,2003,\N,0.76689,2252.41199,2937.0731004446534
+Estonia,Europe & Central Asia,2004,\N,0.85389,2529.416,2962.226984740423
+Estonia,Europe & Central Asia,2005,\N,0.93029,2513.74978,2702.1141579507466
+Estonia,Europe & Central Asia,2006,\N,1.12758,2663.59743,2362.2247911456393
+Estonia,Europe & Central Asia,2007,77.34864044,1.08061,2810.06261,2600.441056440344
+Estonia,Europe & Central Asia,2008,77.67032623,1.28142,3042.45133,2374.281133430101
+Estonia,Europe & Central Asia,2009,77.15071869,1.41301,3310.91012,2343.161138279276
+Estonia,Europe & Central Asia,2010,76.93226624,1.61964,3139.69687,1938.5152688251712
+Estonia,Europe & Central Asia,2011,76.90448761,2.37073,3484.74853,1469.905273902975
+Estonia,Europe & Central Asia,2012,\N,2.18191,3540.50038,1622.6610538473174
+Estonia,Europe & Central Asia,2013,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2000,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2001,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2002,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2003,\N,0.86117,1780.24344,2067.2381062972468
+Faeroe Islands,Europe & Central Asia,2004,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2005,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2006,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2007,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2008,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2009,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2010,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2011,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2012,\N,\N,\N,\N
+Faeroe Islands,Europe & Central Asia,2013,\N,\N,\N,\N
+Finland,Europe & Central Asia,2000,63.652770999999994,3.34552,6731.79198,2012.1810600444774
+Finland,Europe & Central Asia,2001,63.9156189,3.31616,7109.99493,2144.0445967625205
+Finland,Europe & Central Asia,2002,63.43822861,3.36269,7428.47616,2209.0874151349067
+Finland,Europe & Central Asia,2003,64.23053741,3.43914,8003.50954,2327.1834063166953
+Finland,Europe & Central Asia,2004,64.39109802,3.45016,7842.55232,2273.098151969764
+Finland,Europe & Central Asia,2005,64.40141296,3.47693,7544.64803,2169.9165729537267
+Finland,Europe & Central Asia,2006,\N,3.47552,7671.28205,2207.2328888914462
+Finland,Europe & Central Asia,2007,64.68643951,3.47143,7369.16036,2122.802522303489
+Finland,Europe & Central Asia,2008,63.66680908,3.7007,7686.4737,2077.032372253898
+Finland,Europe & Central Asia,2009,64.21431732,3.93834,7643.95547,1940.9079637613816
+Finland,Europe & Central Asia,2010,64.45120239,3.9006,7717.47565,1978.5355201763832
+Finland,Europe & Central Asia,2011,64.70455933,3.79677,7422.89599,1955.0554787358728
+Finland,Europe & Central Asia,2012,64.88414764,3.54823,7482.34342,2108.7537786445637
+Finland,Europe & Central Asia,2013,\N,\N,\N,\N
+France,Europe & Central Asia,2000,55.20486832,2.15015,2905.945,1351.5080343231868
+France,Europe & Central Asia,2001,59.90866852,2.19901,2976.00462,1353.338374996021
+France,Europe & Central Asia,2002,56.69847107,2.23777,3104.52967,1387.3318839737776
+France,Europe & Central Asia,2003,58.1464119,2.17703,3185.15491,1463.073503810237
+France,Europe & Central Asia,2004,58.56578827,2.15591,3317.52104,1538.8031225793286
+France,Europe & Central Asia,2005,58.05796051,2.10865,3295.74225,1562.9631517795747
+France,Europe & Central Asia,2006,58.68751144,2.10801,3405.13018,1615.32923468105
+France,Europe & Central Asia,2007,58.8133316,2.08306,3566.11337,1711.959026624293
+France,Europe & Central Asia,2008,58.90370178,2.12427,3639.79242,1713.4321060882091
+France,Europe & Central Asia,2009,61.81203842,2.27149,3726.70247,1640.6422524422296
+France,Europe & Central Asia,2010,59.44702911,2.24446,3851.49288,1715.999786140096
+France,Europe & Central Asia,2011,59.44747162,2.24979,3917.55326,1741.297303303864
+France,Europe & Central Asia,2012,59.27539825,2.26264,\N,\N
+France,Europe & Central Asia,2013,\N,\N,\N,\N
+Georgia,Europe & Central Asia,2000,76.37641907,0.2153,\N,\N
+Georgia,Europe & Central Asia,2001,74.33000946,0.23848,\N,\N
+Georgia,Europe & Central Asia,2002,80.28177643,0.18574,\N,\N
+Georgia,Europe & Central Asia,2003,81.88501740000001,0.2176,\N,\N
+Georgia,Europe & Central Asia,2004,\N,0.2442,\N,\N
+Georgia,Europe & Central Asia,2005,\N,0.17658,\N,\N
+Georgia,Europe & Central Asia,2006,\N,\N,\N,\N
+Georgia,Europe & Central Asia,2007,\N,\N,\N,\N
+Georgia,Europe & Central Asia,2008,\N,\N,\N,\N
+Georgia,Europe & Central Asia,2009,85.59150696,\N,\N,\N
+Georgia,Europe & Central Asia,2010,\N,\N,\N,\N
+Georgia,Europe & Central Asia,2011,\N,\N,\N,\N
+Georgia,Europe & Central Asia,2012,\N,\N,\N,\N
+Georgia,Europe & Central Asia,2013,\N,\N,\N,\N
+Germany,Europe & Central Asia,2000,53.02830887,2.47223,3087.85064,1249.0143069212816
+Germany,Europe & Central Asia,2001,53.7051506,2.47405,3163.12578,1278.521363755785
+Germany,Europe & Central Asia,2002,54.35187149,2.50276,3176.33377,1269.1323858460262
+Germany,Europe & Central Asia,2003,54.94467163,2.53963,3209.77299,1263.874261211279
+Germany,Europe & Central Asia,2004,55.60424042,2.50339,3222.64431,1287.3121287534104
+Germany,Europe & Central Asia,2005,56.03145981,2.5058,3246.1958,1295.472823050523
+Germany,Europe & Central Asia,2006,56.50518036,2.54026,3341.54515,1315.4343059371874
+Germany,Europe & Central Asia,2007,57.18004989999999,2.53169,3479.9856,1374.5701882931953
+Germany,Europe & Central Asia,2008,57.59883881,2.68945,3627.5977,1348.8251129413077
+Germany,Europe & Central Asia,2009,58.24412918,2.82263,3813.59908,1351.0800494574207
+Germany,Europe & Central Asia,2010,58.96229935,2.80352,3950.41394,1409.0906931286383
+Germany,Europe & Central Asia,2011,59.78409958,2.89286,4084.88524,1412.0577006837523
+Germany,Europe & Central Asia,2012,60.33612061,2.9191,4138.88284,1417.8626425953207
+Germany,Europe & Central Asia,2013,\N,\N,\N,\N
+Greece,Europe & Central Asia,2000,\N,\N,\N,\N
+Greece,Europe & Central Asia,2001,\N,0.58684,1304.9487,2223.6873764569555
+Greece,Europe & Central Asia,2002,\N,\N,\N,\N
+Greece,Europe & Central Asia,2003,55.56719971,0.57225,1416.93668,2476.0798252512013
+Greece,Europe & Central Asia,2004,55.69244003,0.55641,\N,\N
+Greece,Europe & Central Asia,2005,55.80385971,0.59753,1774.44442,2969.6323531872877
+Greece,Europe & Central Asia,2006,56.50400162,0.58604,1801.11964,3073.373216845266
+Greece,Europe & Central Asia,2007,57.53702164,0.60118,1898.81813,3158.4851957816295
+Greece,Europe & Central Asia,2008,\N,\N,\N,\N
+Greece,Europe & Central Asia,2009,\N,\N,\N,\N
+Greece,Europe & Central Asia,2010,\N,\N,\N,\N
+Greece,Europe & Central Asia,2011,\N,0.66712,2219.20005,3326.5380291401843
+Greece,Europe & Central Asia,2012,\N,0.69038,2168.34002,3140.7920565485674
+Greece,Europe & Central Asia,2013,\N,\N,\N,\N
+Greenland,Europe & Central Asia,2000,\N,\N,\N,\N
+Greenland,Europe & Central Asia,2001,\N,0.52741,536.05978,1016.4004853908724
+Greenland,Europe & Central Asia,2002,\N,0.55628,539.49835,969.8323685913568
+Greenland,Europe & Central Asia,2003,\N,0.55517,646.90122,1165.2308662211574
+Greenland,Europe & Central Asia,2004,\N,0.71581,701.46446,979.9590114695242
+Greenland,Europe & Central Asia,2005,\N,\N,\N,\N
+Greenland,Europe & Central Asia,2006,\N,\N,\N,\N
+Greenland,Europe & Central Asia,2007,\N,\N,\N,\N
+Greenland,Europe & Central Asia,2008,\N,\N,\N,\N
+Greenland,Europe & Central Asia,2009,\N,\N,\N,\N
+Greenland,Europe & Central Asia,2010,\N,\N,\N,\N
+Greenland,Europe & Central Asia,2011,\N,\N,\N,\N
+Greenland,Europe & Central Asia,2012,\N,\N,\N,\N
+Greenland,Europe & Central Asia,2013,\N,\N,\N,\N
+Hungary,Europe & Central Asia,2000,71.0437088,0.80516,1409.02199,1749.9900516667494
+Hungary,Europe & Central Asia,2001,72.35875702,0.93092,1438.38888,1545.1261977398703
+Hungary,Europe & Central Asia,2002,73.28881073,1.00161,1471.68865,1469.323039905752
+Hungary,Europe & Central Asia,2003,73.85061646,0.93805,1496.71034,1595.5549704173552
+Hungary,Europe & Central Asia,2004,71.12758636,0.87842,1473.03702,1676.9165319551012
+Hungary,Europe & Central Asia,2005,71.20036316,0.9436,1572.70767,1666.7101208139043
+Hungary,Europe & Central Asia,2006,71.39531708,1.00505,1741.28911,1732.5397840903438
+Hungary,Europe & Central Asia,2007,71.37866974,0.98309,1728.59258,1758.3258704696416
+Hungary,Europe & Central Asia,2008,71.4707489,1.00351,1841.9165,1835.473986308059
+Hungary,Europe & Central Asia,2009,71.33100128,1.16755,2000.18024,1713.1431116440408
+Hungary,Europe & Central Asia,2010,70.96755981,1.17003,2131.08159,1821.3905540883566
+Hungary,Europe & Central Asia,2011,71.17597961,1.21777,2302.76883,1890.9718830320996
+Hungary,Europe & Central Asia,2012,71.02487946,1.29664,2389.38794,1842.753532206318
+Hungary,Europe & Central Asia,2013,\N,\N,\N,\N
+Iceland,Europe & Central Asia,2000,\N,2.66912,\N,\N
+Iceland,Europe & Central Asia,2001,\N,2.95168,6545.89236,2217.6836106895057
+Iceland,Europe & Central Asia,2002,\N,2.95144,\N,\N
+Iceland,Europe & Central Asia,2003,\N,2.81881,6612.05484,2345.690145841685
+Iceland,Europe & Central Asia,2004,\N,\N,\N,\N
+Iceland,Europe & Central Asia,2005,\N,2.77293,7261.79043,2618.8149105819475
+Iceland,Europe & Central Asia,2006,\N,2.99208,7980.76443,2667.296472687896
+Iceland,Europe & Central Asia,2007,\N,2.68474,7241.34878,2697.225347705923
+Iceland,Europe & Central Asia,2008,\N,2.64604,7458.67729,2818.8074594488367
+Iceland,Europe & Central Asia,2009,\N,2.81985,7983.0085,2831.004663368619
+Iceland,Europe & Central Asia,2010,\N,\N,\N,\N
+Iceland,Europe & Central Asia,2011,\N,2.60487,7012.22163,2691.966059726589
+Iceland,Europe & Central Asia,2012,\N,\N,\N,\N
+Iceland,Europe & Central Asia,2013,\N,\N,\N,\N
+Ireland,Europe & Central Asia,2000,\N,1.11308,2238.84854,2011.3994861106119
+Ireland,Europe & Central Asia,2001,\N,1.0928,2314.89206,2118.3126464128845
+Ireland,Europe & Central Asia,2002,\N,1.0984,2382.18948,2168.781391114348
+Ireland,Europe & Central Asia,2003,\N,1.16386,2503.08429,2150.674728919286
+Ireland,Europe & Central Asia,2004,\N,1.22673,2694.70531,2196.657218784899
+Ireland,Europe & Central Asia,2005,\N,1.24619,2786.67495,2236.1557627649076
+Ireland,Europe & Central Asia,2006,\N,1.24844,2880.19415,2307.03449905482
+Ireland,Europe & Central Asia,2007,\N,1.28233,2958.76717,2307.336777584553
+Ireland,Europe & Central Asia,2008,\N,1.44557,3332.52368,2305.335390192104
+Ireland,Europe & Central Asia,2009,\N,1.68566,3217.15246,1908.5417343948363
+Ireland,Europe & Central Asia,2010,\N,1.68853,3173.09601,1879.2061793394255
+Ireland,Europe & Central Asia,2011,\N,1.65775,3354.52649,2023.5418428592973
+Ireland,Europe & Central Asia,2012,\N,1.72382,3513.19634,2038.029689874813
+Ireland,Europe & Central Asia,2013,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2000,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2001,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2002,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2003,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2004,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2005,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2006,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2007,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2008,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2009,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2010,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2011,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2012,\N,\N,\N,\N
+Isle of Man,Europe & Central Asia,2013,\N,\N,\N,\N
+Italy,Europe & Central Asia,2000,64.69117737,1.03984,1160.10777,1115.6598803662102
+Italy,Europe & Central Asia,2001,64.82926941,1.08081,1166.11413,1078.9261109723261
+Italy,Europe & Central Asia,2002,65.38043213,1.12142,1238.96006,1104.8135934796953
+Italy,Europe & Central Asia,2003,65.15062714,1.10064,1215.39149,1104.2588766535832
+Italy,Europe & Central Asia,2004,66.33638763,1.09127,1235.89709,1132.5309868318564
+Italy,Europe & Central Asia,2005,66.36470032,1.08598,1405.93646,1294.6246339711597
+Italy,Europe & Central Asia,2006,66.68869019,1.12732,1496.82106,1327.7694532164778
+Italy,Europe & Central Asia,2007,67.39129639,1.17304,1563.40776,1332.782991202346
+Italy,Europe & Central Asia,2008,\N,1.20578,1599.46868,1326.5012523014148
+Italy,Europe & Central Asia,2009,\N,1.264,1691.12702,1337.9169462025316
+Italy,Europe & Central Asia,2010,\N,1.26458,1709.23892,1351.6257729839156
+Italy,Europe & Central Asia,2011,\N,1.25351,1747.94164,1394.4377308517683
+Italy,Europe & Central Asia,2012,\N,1.26572,1820.22076,1438.0911734032804
+Italy,Europe & Central Asia,2013,\N,\N,\N,\N
+Kazakhstan,Europe & Central Asia,2000,\N,0.18104,\N,\N
+Kazakhstan,Europe & Central Asia,2001,83.7257309,0.22009,\N,\N
+Kazakhstan,Europe & Central Asia,2002,84.65537262,0.25509,\N,\N
+Kazakhstan,Europe & Central Asia,2003,84.44085693,0.25246,\N,\N
+Kazakhstan,Europe & Central Asia,2004,84.62905121,0.24837,\N,\N
+Kazakhstan,Europe & Central Asia,2005,84.87371063,0.28361,\N,\N
+Kazakhstan,Europe & Central Asia,2006,86.80164337,0.24281,\N,\N
+Kazakhstan,Europe & Central Asia,2007,85.41972351,0.20884,\N,\N
+Kazakhstan,Europe & Central Asia,2008,85.63913727,0.21654,\N,\N
+Kazakhstan,Europe & Central Asia,2009,85.70384216,0.22924,\N,\N
+Kazakhstan,Europe & Central Asia,2010,85.80030823,0.15341,\N,\N
+Kazakhstan,Europe & Central Asia,2011,84.54058075,0.15723,651.82018,4145.647649939579
+Kazakhstan,Europe & Central Asia,2012,84.6013031,\N,\N,\N
+Kazakhstan,Europe & Central Asia,2013,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2000,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2001,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2002,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2003,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2004,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2005,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2006,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2007,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2008,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2009,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2010,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2011,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2012,\N,\N,\N,\N
+Kosovo,Europe & Central Asia,2013,\N,\N,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2000,68.84918213,0.15637,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2001,68.50830841,0.17189,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2002,70.13082886,0.1981,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2003,70.79669952,0.22272,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2004,72.354599,0.19926,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2005,72.49878693,0.19861,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2006,72.9577713,0.23014,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2007,74.445961,0.23425,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2008,74.95570374,0.19017,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2009,76.02337646,0.15997,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2010,83.2249527,0.15547,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2011,\N,0.15633,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2012,\N,\N,\N,\N
+Kyrgyz Republic,Europe & Central Asia,2013,\N,\N,\N,\N
+Latvia,Europe & Central Asia,2000,80.14022064,0.44182,1608.2777,3640.119732017564
+Latvia,Europe & Central Asia,2001,80.77996063,0.40499,1491.06152,3681.724289488629
+Latvia,Europe & Central Asia,2002,81.35308838,0.41905,1489.25822,3553.891468798473
+Latvia,Europe & Central Asia,2003,81.79029083,0.37808,1400.04721,3703.0448846804907
+Latvia,Europe & Central Asia,2004,82.22418213,0.41792,1472.32938,3522.993348009188
+Latvia,Europe & Central Asia,2005,83.17147064,0.55865,1473.36165,2637.3608699543543
+Latvia,Europe & Central Asia,2006,85.15196991,0.69999,1790.78612,2558.302432891898
+Latvia,Europe & Central Asia,2007,\N,0.59493,1918.18129,3224.2134200662263
+Latvia,Europe & Central Asia,2008,81.26513672,0.61464,2043.7197,3325.0678445919566
+Latvia,Europe & Central Asia,2009,82.11567688,0.45785,1714.21511,3744.0539696407122
+Latvia,Europe & Central Asia,2010,82.96794128,0.60459,1863.65204,3082.5055657553053
+Latvia,Europe & Central Asia,2011,82.25274658,0.69631,1903.65031,2733.9120650285076
+Latvia,Europe & Central Asia,2012,82.2256012,0.65851,1894.75196,2877.332098221743
+Latvia,Europe & Central Asia,2013,\N,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2000,\N,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2001,\N,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2002,\N,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2003,\N,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2004,\N,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2005,44.81707001,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2006,47.15908813,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2007,49.86449814,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2008,49.23546982,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2009,51.03245163,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2010,\N,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2011,53.07442856,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2012,\N,\N,\N,\N
+Liechtenstein,Europe & Central Asia,2013,\N,\N,\N,\N
+Lithuania,Europe & Central Asia,2000,\N,0.59018,2222.98701,3766.62545325155
+Lithuania,Europe & Central Asia,2001,\N,0.67192,2332.72552,3471.731039409454
+Lithuania,Europe & Central Asia,2002,\N,0.66199,1848.93451,2792.994622275261
+Lithuania,Europe & Central Asia,2003,\N,0.6703,1955.3577,2917.138147098314
+Lithuania,Europe & Central Asia,2004,80.58054352,0.75393,2206.84921,2927.127465414561
+Lithuania,Europe & Central Asia,2005,80.75205231,0.75215,2323.5493,3089.2099980057174
+Lithuania,Europe & Central Asia,2006,80.82878113,0.79451,2463.86106,3101.1076764294976
+Lithuania,Europe & Central Asia,2007,81.13288879,0.81393,2654.15876,3260.9177201970683
+Lithuania,Europe & Central Asia,2008,81.5030899,0.79842,2682.8407,3360.187244808497
+Lithuania,Europe & Central Asia,2009,81.42228699,0.84304,2736.96773,3246.5455138546213
+Lithuania,Europe & Central Asia,2010,81.38401794,0.80127,2802.38569,3497.4299424663345
+Lithuania,Europe & Central Asia,2011,81.26432037,0.91765,2756.2599,3003.606930747017
+Lithuania,Europe & Central Asia,2012,81.31189728,0.90166,2649.93538,2938.9519109198586
+Lithuania,Europe & Central Asia,2013,\N,\N,\N,\N
+Luxembourg,Europe & Central Asia,2000,40.21775055,1.65421,3773.35128,2281.0594060004473
+Luxembourg,Europe & Central Asia,2001,41.11999893,\N,\N,\N
+Luxembourg,Europe & Central Asia,2002,42.20212173,\N,\N,\N
+Luxembourg,Europe & Central Asia,2003,43.00091171,1.64898,4360.21799,2644.190948343825
+Luxembourg,Europe & Central Asia,2004,43.70347977,1.63129,4497.41777,2756.970109545207
+Luxembourg,Europe & Central Asia,2005,45.03292084,1.55933,4864.07031,3119.333502209282
+Luxembourg,Europe & Central Asia,2006,46.52304077,1.66155,4406.17834,2651.848177906172
+Luxembourg,Europe & Central Asia,2007,47.08388901,1.57773,4620.25556,2928.419666229329
+Luxembourg,Europe & Central Asia,2008,47.78440094,1.65581,4694.34241,2835.0731122532175
+Luxembourg,Europe & Central Asia,2009,\N,1.74357,4810.92758,2759.2397093320023
+Luxembourg,Europe & Central Asia,2010,51.56781006,1.50524,5190.15131,3448.055665541708
+Luxembourg,Europe & Central Asia,2011,\N,1.41434,5813.90845,4110.68657465673
+Luxembourg,Europe & Central Asia,2012,\N,1.44066,6193.86571,4299.32510793664
+Luxembourg,Europe & Central Asia,2013,\N,\N,\N,\N
+Macedonia,Europe & Central Asia,2000,49.70721817,0.44059,645.67091,1465.4688258925532
+Macedonia,Europe & Central Asia,2001,50.68896866,0.31635,600.45577,1898.0741899794532
+Macedonia,Europe & Central Asia,2002,51.21055984,0.25926,561.11502,2164.294607729692
+Macedonia,Europe & Central Asia,2003,51.79579163,0.21906,537.27631,2452.644526613713
+Macedonia,Europe & Central Asia,2004,52.04769135,0.23947,512.53088,2140.271766818391
+Macedonia,Europe & Central Asia,2005,52.92784119,0.23861,532.52467,2231.7785088638366
+Macedonia,Europe & Central Asia,2006,53.69049835,0.20268,507.21153,2502.523830669035
+Macedonia,Europe & Central Asia,2007,53.76358032,0.17463,495.08256,2835.0372788180725
+Macedonia,Europe & Central Asia,2008,54.25307083,0.2253,461.22275,2047.1493564136708
+Macedonia,Europe & Central Asia,2009,55.17691039999999,0.19865,425.12513,2140.071130128367
+Macedonia,Europe & Central Asia,2010,56.38869858,0.21793,\N,\N
+Macedonia,Europe & Central Asia,2011,\N,\N,\N,\N
+Macedonia,Europe & Central Asia,2012,57.28778839,\N,\N,\N
+Macedonia,Europe & Central Asia,2013,\N,\N,\N,\N
+Moldova,Europe & Central Asia,2000,72.80729675,\N,\N,\N
+Moldova,Europe & Central Asia,2001,73.62580109,\N,\N,\N
+Moldova,Europe & Central Asia,2002,74.52645874,\N,\N,\N
+Moldova,Europe & Central Asia,2003,75.00322723,0.32405,702.42634,2167.6480172812835
+Moldova,Europe & Central Asia,2004,75.58959961,0.34903,711.86686,2039.5578030541785
+Moldova,Europe & Central Asia,2005,75.31694794,0.39865,685.67752,1719.9987959362848
+Moldova,Europe & Central Asia,2006,75.53865814,0.40622,674.7335,1661.0051203781202
+Moldova,Europe & Central Asia,2007,75.66171265,0.54558,705.75973,1293.5953114117087
+Moldova,Europe & Central Asia,2008,76.16824341,0.53463,806.54254,1508.5994800142153
+Moldova,Europe & Central Asia,2009,76.75254822,0.52557,793.823,1510.4039423863615
+Moldova,Europe & Central Asia,2010,76.74323273,0.43987,758.18131,1723.648600722941
+Moldova,Europe & Central Asia,2011,76.66313171,0.40499,780.99244,1928.4240104693943
+Moldova,Europe & Central Asia,2012,76.96951294,\N,\N,\N
+Moldova,Europe & Central Asia,2013,\N,\N,\N,\N
+Monaco,Europe & Central Asia,2000,\N,\N,\N,\N
+Monaco,Europe & Central Asia,2001,57.9710083,\N,\N,\N
+Monaco,Europe & Central Asia,2002,\N,\N,\N,\N
+Monaco,Europe & Central Asia,2003,\N,\N,\N,\N
+Monaco,Europe & Central Asia,2004,63.17689896,0.03719,\N,\N
+Monaco,Europe & Central Asia,2005,\N,0.03752,\N,\N
+Monaco,Europe & Central Asia,2006,\N,\N,\N,\N
+Monaco,Europe & Central Asia,2007,\N,\N,\N,\N
+Monaco,Europe & Central Asia,2008,68.40077209,\N,\N,\N
+Monaco,Europe & Central Asia,2009,\N,\N,\N,\N
+Monaco,Europe & Central Asia,2010,\N,\N,\N,\N
+Monaco,Europe & Central Asia,2011,\N,\N,\N,\N
+Monaco,Europe & Central Asia,2012,\N,\N,\N,\N
+Monaco,Europe & Central Asia,2013,\N,\N,\N,\N
+Montenegro,Europe & Central Asia,2000,\N,\N,\N,\N
+Montenegro,Europe & Central Asia,2001,\N,\N,\N,\N
+Montenegro,Europe & Central Asia,2002,\N,\N,\N,\N
+Montenegro,Europe & Central Asia,2003,\N,0.79774,\N,\N
+Montenegro,Europe & Central Asia,2004,\N,1.01872,\N,\N
+Montenegro,Europe & Central Asia,2005,\N,0.92443,\N,\N
+Montenegro,Europe & Central Asia,2006,\N,1.24172,\N,\N
+Montenegro,Europe & Central Asia,2007,\N,1.14891,\N,\N
+Montenegro,Europe & Central Asia,2008,\N,\N,\N,\N
+Montenegro,Europe & Central Asia,2009,\N,\N,\N,\N
+Montenegro,Europe & Central Asia,2010,\N,\N,\N,\N
+Montenegro,Europe & Central Asia,2011,\N,0.40864,762.91723,1866.96659651527
+Montenegro,Europe & Central Asia,2012,\N,\N,\N,\N
+Montenegro,Europe & Central Asia,2013,\N,\N,\N,\N
+Netherlands,Europe & Central Asia,2000,\N,1.93559,2660.42651,1374.4783296049266
+Netherlands,Europe & Central Asia,2001,\N,1.93308,2858.83312,1478.9005731785544
+Netherlands,Europe & Central Asia,2002,42.38832855,1.88021,2734.94536,1454.595688779445
+Netherlands,Europe & Central Asia,2003,42.78078842,1.91804,2715.08941,1415.5541125315426
+Netherlands,Europe & Central Asia,2004,44.28100967,1.92779,2983.84279,1547.804890574181
+Netherlands,Europe & Central Asia,2005,44.83660889,1.90336,2935.42446,1542.2329249327506
+Netherlands,Europe & Central Asia,2006,45.60176849,1.88351,3245.64038,1723.1872302244212
+Netherlands,Europe & Central Asia,2007,46.37863922,1.80876,3105.11902,1716.711459784604
+Netherlands,Europe & Central Asia,2008,47.37303162,1.76658,3073.58257,1739.8490699543752
+Netherlands,Europe & Central Asia,2009,47.6873703,1.81566,2835.40851,1561.6406761177755
+Netherlands,Europe & Central Asia,2010,48.55212021,1.8562,3232.15255,1741.2738659627194
+Netherlands,Europe & Central Asia,2011,49.16292191,2.02672,3506.93253,1730.3488049656587
+Netherlands,Europe & Central Asia,2012,49.91865921,2.15676,3505.9553,1625.5658024073148
+Netherlands,Europe & Central Asia,2013,\N,\N,\N,\N
+Norway,Europe & Central Asia,2000,\N,\N,\N,\N
+Norway,Europe & Central Asia,2001,\N,1.59047,4360.17891,2741.440523870302
+Norway,Europe & Central Asia,2002,\N,1.66024,\N,\N
+Norway,Europe & Central Asia,2003,\N,1.70929,4505.86435,2636.102914075435
+Norway,Europe & Central Asia,2004,\N,1.57077,4503.11696,2866.821342398951
+Norway,Europe & Central Asia,2005,\N,1.50591,4584.45528,3044.3089427655036
+Norway,Europe & Central Asia,2006,\N,1.47902,4836.07907,3269.7861218915227
+Norway,Europe & Central Asia,2007,\N,1.59424,5157.84524,3235.300356282617
+Norway,Europe & Central Asia,2008,\N,1.58313,5353.34976,3381.497261753615
+Norway,Europe & Central Asia,2009,\N,1.75813,5433.21251,3090.3360445473318
+Norway,Europe & Central Asia,2010,\N,1.68061,5407.81898,3217.7715115345027
+Norway,Europe & Central Asia,2011,\N,1.65191,5507.55559,3334.053059791393
+Norway,Europe & Central Asia,2012,\N,1.65474,5588.44585,3377.2350036863795
+Norway,Europe & Central Asia,2013,\N,\N,\N,\N
+Poland,Europe & Central Asia,2000,\N,0.64431,1438.64231,2232.8418152752556
+Poland,Europe & Central Asia,2001,65.76503754,0.62317,1465.44108,2351.591186995523
+Poland,Europe & Central Asia,2002,\N,0.55925,1481.82313,2649.6613857845327
+Poland,Europe & Central Asia,2003,68.83394623,0.54061,1531.87836,2833.6108470061595
+Poland,Europe & Central Asia,2004,\N,0.55761,1594.33027,2859.2210864224094
+Poland,Europe & Central Asia,2005,69.06181335,0.56692,1627.01282,2869.9160728145066
+Poland,Europe & Central Asia,2006,69.15154266,0.55591,1559.73309,2805.7295065748053
+Poland,Europe & Central Asia,2007,69.84187317,0.56708,1607.66402,2834.9862805953303
+Poland,Europe & Central Asia,2008,69.7871933,0.60417,1618.37206,2678.670010096496
+Poland,Europe & Central Asia,2009,69.6879425,0.67459,1599.87575,2371.6268400065223
+Poland,Europe & Central Asia,2010,69.65042877,0.7353,1688.82734,2296.7868081055353
+Poland,Europe & Central Asia,2011,69.59635925,0.76477,1678.66705,2194.9959464937174
+Poland,Europe & Central Asia,2012,69.64916992,0.89972,1753.44621,1948.8798848530655
+Poland,Europe & Central Asia,2013,\N,\N,\N,\N
+Portugal,Europe & Central Asia,2000,68.26873779,0.72778,1624.10229,2231.5841188271183
+Portugal,Europe & Central Asia,2001,68.58136749,0.77223,1712.46278,2217.555365629411
+Portugal,Europe & Central Asia,2002,\N,0.73204,1826.10962,2494.5489590732745
+Portugal,Europe & Central Asia,2003,68.88616943,0.71065,1939.06887,2728.584915218462
+Portugal,Europe & Central Asia,2004,69.06286621,0.74364,1974.03027,2654.550952073584
+Portugal,Europe & Central Asia,2005,68.62999725,0.77858,2009.92449,2581.5259703562897
+Portugal,Europe & Central Asia,2006,65.57449341,0.98655,2339.54347,2371.43932897471
+Portugal,Europe & Central Asia,2007,68.67101288,1.1651,2669.20724,2290.968363230624
+Portugal,Europe & Central Asia,2008,68.9283905,1.5031,3822.9333,2543.365910451733
+Portugal,Europe & Central Asia,2009,69.43308258,1.64019,4166.4826,2540.243874185308
+Portugal,Europe & Central Asia,2010,69.1678009,1.59007,4367.97059,2747.0303760211814
+Portugal,Europe & Central Asia,2011,\N,1.52293,4723.81134,3101.7915071605394
+Portugal,Europe & Central Asia,2012,69.44528198,1.49533,4780.76641,3197.1313422455246
+Portugal,Europe & Central Asia,2013,\N,\N,\N,\N
+Romania,Europe & Central Asia,2000,65.68508148,0.36575,914.58264,2500.567710184552
+Romania,Europe & Central Asia,2001,65.84290314,0.38945,884.17385,2270.3141609962768
+Romania,Europe & Central Asia,2002,66.20424652,0.37784,911.7482,2413.053673512598
+Romania,Europe & Central Asia,2003,66.155159,0.386,944.30165,2446.3773316062175
+Romania,Europe & Central Asia,2004,66.19335175,0.3852,959.33043,2490.4735981308413
+Romania,Europe & Central Asia,2005,66.31095123,0.40964,1038.20042,2534.4214920417926
+Romania,Europe & Central Asia,2006,66.58695984,0.45432,862.02798,1897.4026677231907
+Romania,Europe & Central Asia,2007,66.83917999,0.52339,854.29024,1632.224994745792
+Romania,Europe & Central Asia,2008,67.33209991,0.57911,882.95168,1524.670062682392
+Romania,Europe & Central Asia,2009,67.50184631,0.47031,879.41982,1869.8726797218856
+Romania,Europe & Central Asia,2010,67.88114166,0.46086,904.78795,1963.2598836956995
+Romania,Europe & Central Asia,2011,68.48362732,0.50059,737.31262,1472.8872330649835
+Romania,Europe & Central Asia,2012,68.72229004,0.48898,828.14132,1693.6097999918195
+Romania,Europe & Central Asia,2013,\N,\N,\N,\N
+Russia,Europe & Central Asia,2000,\N,1.04984,3450.60002,3286.7865770022095
+Russia,Europe & Central Asia,2001,\N,1.17694,3460.19803,2939.9952673883117
+Russia,Europe & Central Asia,2002,\N,1.24782,3380.57485,2709.18469811351
+Russia,Europe & Central Asia,2003,\N,1.28603,3364.70319,2616.348910989635
+Russia,Europe & Central Asia,2004,\N,1.15133,3309.37799,2874.3956902017667
+Russia,Europe & Central Asia,2005,\N,1.06797,3227.73172,3022.305607835426
+Russia,Europe & Central Asia,2006,80.46534729,1.07294,3231.09575,3011.44122690924
+Russia,Europe & Central Asia,2007,81.00415039,1.11611,3265.35495,2925.6569244966895
+Russia,Europe & Central Asia,2008,81.08257294,1.04435,3140.46713,3007.10214966247
+Russia,Europe & Central Asia,2009,81.26693726,1.25192,3077.90241,2458.5456019553967
+Russia,Europe & Central Asia,2010,\N,1.1302,3078.10489,2723.5045921075916
+Russia,Europe & Central Asia,2011,\N,1.09396,3120.36229,2852.355012980365
+Russia,Europe & Central Asia,2012,82.07848358,1.11802,3096.11004,2769.27965510456
+Russia,Europe & Central Asia,2013,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2000,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2001,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2002,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2003,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2004,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2005,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2006,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2007,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2008,76.31578827,\N,\N,\N
+San Marino,Europe & Central Asia,2009,78.44310759999999,\N,\N,\N
+San Marino,Europe & Central Asia,2010,77.63974762,\N,\N,\N
+San Marino,Europe & Central Asia,2011,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2012,\N,\N,\N,\N
+San Marino,Europe & Central Asia,2013,\N,\N,\N,\N
+Serbia,Europe & Central Asia,2000,\N,0.96561,\N,\N
+Serbia,Europe & Central Asia,2001,\N,0.34591,\N,\N
+Serbia,Europe & Central Asia,2002,\N,0.72517,\N,\N
+Serbia,Europe & Central Asia,2003,\N,0.56506,\N,\N
+Serbia,Europe & Central Asia,2004,\N,0.32004,\N,\N
+Serbia,Europe & Central Asia,2005,\N,0.43366,\N,\N
+Serbia,Europe & Central Asia,2006,\N,0.48893,\N,\N
+Serbia,Europe & Central Asia,2007,63.81549835,0.36239,896.40985,2473.6053699053505
+Serbia,Europe & Central Asia,2008,63.93235016,0.38481,1022.25423,2656.5168004989478
+Serbia,Europe & Central Asia,2009,63.78525925,0.91707,1076.48266,1173.8282355763463
+Serbia,Europe & Central Asia,2010,64.19460297,0.79213,1138.67792,1437.488695037431
+Serbia,Europe & Central Asia,2011,63.74996185,0.77744,1221.15199,1570.7347062152708
+Serbia,Europe & Central Asia,2012,63.64350891,0.9868,1235.48124,1252.0077421970004
+Serbia,Europe & Central Asia,2013,\N,\N,\N,\N
+Slovak Republic,Europe & Central Asia,2000,71.79440308,0.64797,1847.62092,2851.3988610583824
+Slovak Republic,Europe & Central Asia,2001,72.39019012,0.63358,1778.80533,2807.5465292465037
+Slovak Republic,Europe & Central Asia,2002,72.74920654,0.57114,1703.9993,2983.505445249851
+Slovak Republic,Europe & Central Asia,2003,72.85639954,0.57345,1786.93372,3116.1107681576423
+Slovak Republic,Europe & Central Asia,2004,76.55387878,0.51193,1989.07344,3885.4402750376025
+Slovak Republic,Europe & Central Asia,2005,73.02774811,0.50503,2025.52579,4010.7038987782903
+Slovak Republic,Europe & Central Asia,2006,72.78138733,0.48662,2181.77432,4483.527845135835
+Slovak Republic,Europe & Central Asia,2007,74.08953094,0.45994,2285.39484,4968.897769274253
+Slovak Republic,Europe & Central Asia,2008,74.1471405,0.47344,2324.33818,4909.467260898952
+Slovak Republic,Europe & Central Asia,2009,74.88249969,0.48251,2449.74972,5077.096267434871
+Slovak Republic,Europe & Central Asia,2010,74.52340698,0.63332,2794.32705,4412.188230278532
+Slovak Republic,Europe & Central Asia,2011,74.39588165,0.67915,2817.13001,4148.023279098873
+Slovak Republic,Europe & Central Asia,2012,74.8503418,0.82315,2804.18315,3406.6490311607845
+Slovak Republic,Europe & Central Asia,2013,\N,\N,\N,\N
+Slovenia,Europe & Central Asia,2000,69.45760345,1.38087,2179.39278,1578.2751308957397
+Slovenia,Europe & Central Asia,2001,68.58480072,1.49473,2260.60595,1512.3841429555841
+Slovenia,Europe & Central Asia,2002,70.07492828,1.46527,2332.55782,1591.89625120285
+Slovenia,Europe & Central Asia,2003,70.32501984,1.26862,1895.68176,1494.2865160568174
+Slovenia,Europe & Central Asia,2004,70.62470245,1.39364,2020.47751,1449.7843847765564
+Slovenia,Europe & Central Asia,2005,71.21128082,1.43709,2626.04176,1827.3328462378836
+Slovenia,Europe & Central Asia,2006,71.2770462,1.55811,2915.32855,1871.0672224682469
+Slovenia,Europe & Central Asia,2007,71.88330841,1.44814,3093.82048,2136.4097946331153
+Slovenia,Europe & Central Asia,2008,71.80493927,1.65493,3459.82967,2090.619947671503
+Slovenia,Europe & Central Asia,2009,72.05342102,1.8603,3642.41521,1957.9719453851528
+Slovenia,Europe & Central Asia,2010,\N,2.10624,3749.81988,1780.3383659981769
+Slovenia,Europe & Central Asia,2011,72.67228699,2.47362,4255.1912,1720.228329331102
+Slovenia,Europe & Central Asia,2012,\N,2.79952,4397.60373,1570.842047922501
+Slovenia,Europe & Central Asia,2013,\N,\N,\N,\N
+Spain,Europe & Central Asia,2000,51.38282013,0.90791,1903.28494,2096.3365752111995
+Spain,Europe & Central Asia,2001,52.19309998,0.91522,1964.84625,2146.85676667905
+Spain,Europe & Central Asia,2002,53.25526047,0.98642,2015.09972,2042.8415076742158
+Spain,Europe & Central Asia,2003,54.73123932,1.04881,2202.08967,2099.607812663876
+Spain,Europe & Central Asia,2004,55.13851929,1.06333,2364.63798,2223.804444528039
+Spain,Europe & Central Asia,2005,56.41609955,1.1214,2528.84721,2255.0804440877473
+Spain,Europe & Central Asia,2006,57.20212936,1.19885,2629.48365,2193.338324227385
+Spain,Europe & Central Asia,2007,56.77236938,1.26689,2745.47546,2167.098532627142
+Spain,Europe & Central Asia,2008,54.89537811,1.35149,2895.14835,2142.1899903069943
+Spain,Europe & Central Asia,2009,54.11830139,1.39285,2924.39186,2099.574153713609
+Spain,Europe & Central Asia,2010,54.57756042,1.3952,2915.70069,2089.808407396789
+Spain,Europe & Central Asia,2011,54.69218063,1.35563,2799.90051,2065.3869492413123
+Spain,Europe & Central Asia,2012,54.95090866,1.30142,2719.07278,2089.312274285012
+Spain,Europe & Central Asia,2013,\N,\N,\N,\N
+Sweden,Europe & Central Asia,2000,55.5881691,\N,\N,\N
+Sweden,Europe & Central Asia,2001,56.05236053,4.13,5174.73812,1252.963225181598
+Sweden,Europe & Central Asia,2002,\N,\N,\N,\N
+Sweden,Europe & Central Asia,2003,56.48117065,3.80267,5388.87561,1417.1294406298732
+Sweden,Europe & Central Asia,2004,57.07374954,3.57507,5431.74126,1519.338435331336
+Sweden,Europe & Central Asia,2005,57.62364960000001,3.55914,6100.66507,1714.0840399647104
+Sweden,Europe & Central Asia,2006,58.54333878,3.68411,6131.02094,1664.179663473675
+Sweden,Europe & Central Asia,2007,58.75645065,3.43479,5001.77145,1456.208807525351
+Sweden,Europe & Central Asia,2008,59.25827026,3.69517,5438.2661,1471.7228436039477
+Sweden,Europe & Central Asia,2009,58.94969939999999,3.6167,5065.36044,1400.5475820499353
+Sweden,Europe & Central Asia,2010,59.31877136,3.39194,5255.85579,1549.5131959881364
+Sweden,Europe & Central Asia,2011,58.67441177,3.38709,5142.25632,1518.1929975288522
+Sweden,Europe & Central Asia,2012,58.27896118,3.40622,5181.19843,1521.099174451445
+Sweden,Europe & Central Asia,2013,\N,\N,\N,\N
+Switzerland,Europe & Central Asia,2000,\N,2.46875,3643.11003,1475.6901387341773
+Switzerland,Europe & Central Asia,2001,\N,\N,\N,\N
+Switzerland,Europe & Central Asia,2002,\N,\N,\N,\N
+Switzerland,Europe & Central Asia,2003,\N,\N,\N,\N
+Switzerland,Europe & Central Asia,2004,\N,2.8151,3458.32453,1228.490828034528
+Switzerland,Europe & Central Asia,2005,\N,\N,\N,\N
+Switzerland,Europe & Central Asia,2006,\N,\N,\N,\N
+Switzerland,Europe & Central Asia,2007,\N,\N,\N,\N
+Switzerland,Europe & Central Asia,2008,\N,2.87046,3285.1818,1144.4792123910452
+Switzerland,Europe & Central Asia,2009,\N,\N,\N,\N
+Switzerland,Europe & Central Asia,2010,\N,\N,\N,\N
+Switzerland,Europe & Central Asia,2011,\N,\N,\N,\N
+Switzerland,Europe & Central Asia,2012,48.40169144,\N,\N,\N
+Switzerland,Europe & Central Asia,2013,\N,\N,\N,\N
+Tajikistan,Europe & Central Asia,2000,42.12752151,\N,\N,\N
+Tajikistan,Europe & Central Asia,2001,43.60533142,0.08953,\N,\N
+Tajikistan,Europe & Central Asia,2002,44.6967392,0.07068,\N,\N
+Tajikistan,Europe & Central Asia,2003,45.28184891,0.0689,\N,\N
+Tajikistan,Europe & Central Asia,2004,44.78693008,0.06697,\N,\N
+Tajikistan,Europe & Central Asia,2005,45.19374847,0.0957,\N,\N
+Tajikistan,Europe & Central Asia,2006,47.12812042,0.10732,\N,\N
+Tajikistan,Europe & Central Asia,2007,49.06351089,0.06778,\N,\N
+Tajikistan,Europe & Central Asia,2008,48.96971893,0.06983,\N,\N
+Tajikistan,Europe & Central Asia,2009,50.43400955,0.08577,\N,\N
+Tajikistan,Europe & Central Asia,2010,58.71482086,0.08914,\N,\N
+Tajikistan,Europe & Central Asia,2011,46.00873947,0.12148,\N,\N
+Tajikistan,Europe & Central Asia,2012,\N,\N,\N,\N
+Tajikistan,Europe & Central Asia,2013,\N,\N,\N,\N
+Turkey,Europe & Central Asia,2000,\N,0.47909,365.38487,762.6643636894946
+Turkey,Europe & Central Asia,2001,\N,0.53779,354.16373,658.5539522862084
+Turkey,Europe & Central Asia,2002,\N,0.52594,369.02724,701.6527360535423
+Turkey,Europe & Central Asia,2003,\N,0.48311,495.31179,1025.2567531204074
+Turkey,Europe & Central Asia,2004,\N,0.51831,506.78777,977.7696166386911
+Turkey,Europe & Central Asia,2005,\N,0.59104,577.75637,977.5249898484027
+Turkey,Europe & Central Asia,2006,\N,0.58016,621.67794,1071.562913678985
+Turkey,Europe & Central Asia,2007,\N,0.72241,714.68133,989.3015462133692
+Turkey,Europe & Central Asia,2008,\N,0.72518,750.54328,1034.9751509969938
+Turkey,Europe & Central Asia,2009,\N,0.84902,810.74796,954.9220984193541
+Turkey,Europe & Central Asia,2010,\N,0.84343,891.92055,1057.4920858873884
+Turkey,Europe & Central Asia,2011,\N,0.85952,986.99623,1148.3109526247208
+Turkey,Europe & Central Asia,2012,47.15092087,\N,\N,\N
+Turkey,Europe & Central Asia,2013,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2000,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2001,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2002,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2003,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2004,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2005,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2006,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2007,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2008,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2009,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2010,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2011,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2012,\N,\N,\N,\N
+Turkmenistan,Europe & Central Asia,2013,\N,\N,\N,\N
+Ukraine,Europe & Central Asia,2000,76.24188995,0.96213,\N,\N
+Ukraine,Europe & Central Asia,2001,\N,1.02329,\N,\N
+Ukraine,Europe & Central Asia,2002,\N,0.9982,\N,\N
+Ukraine,Europe & Central Asia,2003,\N,1.11179,\N,\N
+Ukraine,Europe & Central Asia,2004,\N,1.08152,\N,\N
+Ukraine,Europe & Central Asia,2005,\N,1.16896,\N,\N
+Ukraine,Europe & Central Asia,2006,\N,0.94908,1467.08666,1545.798731403043
+Ukraine,Europe & Central Asia,2007,\N,0.85319,1446.68586,1695.61980332634
+Ukraine,Europe & Central Asia,2008,\N,0.84644,1418.98374,1676.4138509522234
+Ukraine,Europe & Central Asia,2009,\N,0.85644,1336.97432,1561.0834617719865
+Ukraine,Europe & Central Asia,2010,\N,0.83098,1320.54744,1589.1446725552962
+Ukraine,Europe & Central Asia,2011,\N,0.73662,1252.90591,1700.8850017648174
+Ukraine,Europe & Central Asia,2012,\N,\N,\N,\N
+Ukraine,Europe & Central Asia,2013,\N,\N,\N,\N
+United Kingdom,Europe & Central Asia,2000,58.74544907,1.79488,2893.13337,1611.881223257265
+United Kingdom,Europe & Central Asia,2001,59.20024109,1.77236,3077.59759,1736.4404466361236
+United Kingdom,Europe & Central Asia,2002,59.15977097,1.77794,3334.28439,1875.3638424243786
+United Kingdom,Europe & Central Asia,2003,59.46844101,1.73249,3629.77046,2095.1176976490483
+United Kingdom,Europe & Central Asia,2004,60.17919922,1.6693,3817.1619,2286.6841789971845
+United Kingdom,Europe & Central Asia,2005,60.81716919,1.69816,4123.29523,2428.0958390257692
+United Kingdom,Europe & Central Asia,2006,60.90996933,1.71941,4190.12206,2436.9534084366146
+United Kingdom,Europe & Central Asia,2007,61.72000885,1.75061,4143.82989,2367.077698630763
+United Kingdom,Europe & Central Asia,2008,62.23664093,1.75376,4107.58718,2342.160375421951
+United Kingdom,Europe & Central Asia,2009,\N,1.82477,4151.06648,2274.843667969114
+United Kingdom,Europe & Central Asia,2010,\N,1.77448,4134.043,2329.7208196203956
+United Kingdom,Europe & Central Asia,2011,\N,1.78145,4026.42879,2260.1974739678353
+United Kingdom,Europe & Central Asia,2012,\N,1.72108,4024.2046,2338.1856741116044
+United Kingdom,Europe & Central Asia,2013,\N,\N,\N,\N
+United States,North America,2000,55.59645081,2.61925,3454.77092,1318.9924291304762
+United States,North America,2001,55.61748886,2.63746,3524.14483,1336.1889204006886
+United States,North America,2002,60.47935867,2.54905,3607.81853,1415.3580863458938
+United States,North America,2003,60.51023102,2.55253,3845.39632,1506.5038687106517
+United States,North America,2004,62.587001799999996,2.48953,3739.91293,1502.2566227360185
+United States,North America,2005,62.54885864,2.50567,3692.78345,1473.7708676721197
+United States,North America,2006,62.49338149999999,2.54965,3755.46898,1472.9351008962014
+United States,North America,2007,62.44396973,2.62644,3731.4249,1420.7158358843149
+United States,North America,2008,60.35639954,2.76651,3883.89499,1403.896964044952
+United States,North America,2009,61.28141022,2.81594,4042.05628,1435.4198882078454
+United States,North America,2010,61.33372879,2.73827,3837.60044,1401.4689712847894
+United States,North America,2011,61.14725113,2.76264,3978.72846,1440.1907088871512
+United States,North America,2012,62.00225067,2.79197,\N,\N
+United States,North America,2013,\N,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2000,56.60956955,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2001,58.46232986,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2002,59.76549149,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2003,59.63293076,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2004,59.80638123,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2005,59.4085083,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2006,61.46881104,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2007,63.29045105,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2008,62.67758942,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2009,63.22053909,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2010,62.58272934,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2011,62.10779953,\N,533.85676,\N
+Uzbekistan,Europe & Central Asia,2012,\N,\N,\N,\N
+Uzbekistan,Europe & Central Asia,2013,\N,\N,\N,\N
