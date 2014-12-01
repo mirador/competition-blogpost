@@ -1,5 +1,5 @@
 var health = new p5(function(g) {
-  // var urlPrefix = "http://fathom.info/wp-content/uploads/2014/11/mirador-health-";
+  // var urlPrefix = "http://fathom.info/wp-content/uploads/2014/12/mirador-health-";
   var urlPrefix = "mirador-health-";
 
   var leftMargin = 170;
@@ -268,12 +268,7 @@ var health = new p5(function(g) {
   
     if (selBtn) {
       if (selSex0 != selSex || selSal0 != selSal) {
-        selProb = probMap[sexMap[selSex] + "-" + slsMap[selSal]];
-        exProb.setTarget(selProb.getMarginal(0));  
-        for (var i = 0; i < 5; i++) {
-          ghProbEx[i].setTarget(selProb.getJoint(i, 0));
-          ghProbNex[i].setTarget(selProb.getJoint(i, 1));
-        }     
+        g.updateProbs();
       }    
     } else if (!(leftMargin <= g.mouseX && g.mouseX <= g.width - rightMargin &&
                  topMargin <= g.mouseY && g.mouseY <= g.height - bottomMargin)) {
@@ -413,6 +408,39 @@ var health = new p5(function(g) {
   g.fillAlpha = function(col, alp) {
     g.fill(g.red(col), g.green(col), g.blue(col), alp);
   }
+
+  g.updateProbs = function() {
+    selProb = probMap[sexMap[selSex] + "-" + slsMap[selSal]];
+    exProb.setTarget(selProb.getMarginal(0));  
+    for (var i = 0; i < 5; i++) {
+      ghProbEx[i].setTarget(selProb.getJoint(i, 0));
+      ghProbNex[i].setTarget(selProb.getJoint(i, 1));
+    }
+  }
+
+  g.setCovariates = function(sal, sex) {
+    if (selSal != sal || selSex != sex) {
+      for (var i = 0; i < 2; i++) {
+        var btn = sexBtns[i];
+        if (i == sex) {
+          btn.select(sexBtns);
+          selSex = i;
+          break;
+        }
+      }
+
+      for (var i = 0; i < 4; i++) {
+        var btn = salBtns[i];
+        if (i == sal) {
+          btn.select(salBtns);
+          selSal = i;
+          break; 
+        }
+      }
+
+      g.updateProbs();
+    }
+  } 
 
   /////////////////////////////////////////////////////////////////////////////
   //

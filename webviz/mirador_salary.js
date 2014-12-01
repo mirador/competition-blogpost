@@ -1,6 +1,6 @@
-var health = new p5(function(g) {
-  var dataFileURL = "http://fathom.info/wp-content/uploads/2014/11/mirador-salary.csv";
-  // var dataFileURL = "mirador-salary.csv";
+var salary = new p5(function(g) {
+  // var dataFileURL = "http://fathom.info/wp-content/uploads/2014/12/mirador-salary.csv";
+  var dataFileURL = "mirador-salary.csv";
 
   var topMargin = 50;
   var bottomMargin = 20;

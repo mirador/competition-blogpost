@@ -1,5 +1,5 @@
-var health = new p5(function(g) {
-  // var dataFileURL = "http://fathom.info/wp-content/uploads/2014/11/mirador-research.csv";
+var research = new p5(function(g) {
+  // var dataFileURL = "http://fathom.info/wp-content/uploads/2014/12/mirador-research.csv";
   var dataFileURL = "mirador-research.csv";
 
   var plotSize = 265;
@@ -44,6 +44,8 @@ var health = new p5(function(g) {
   var lastMovement = 0;
 
   var selColor = g.color(39, 141, 210);
+
+  var delay = 50;
 
   var ready = false;
 
@@ -353,7 +355,7 @@ var health = new p5(function(g) {
 
   g.updateSelection = function() {
     var time = g.millis();
-    if (time - lastMovement < 100) return;
+    if (time - lastMovement < delay) return;
   
     if (leftMargin <= g.mouseX && g.mouseX <= leftMargin + plotSize &&
         topMargin <= g.mouseY && g.mouseY <= topMargin + plotSize) {
